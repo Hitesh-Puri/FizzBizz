@@ -1,2 +1,2 @@
 # FizzBizz
-Interview Question on HackerRank
+Interview Question on HackerRank. Working on every platform.
